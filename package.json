@@ -1,0 +1,19 @@
+{
+  "name": "serieleibniz",
+  "version": "1.0.0",
+  "description": "Web Service de la serie de leibniz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanFlores444/SeriedeLeibniz.git"
+  },
+  "author": "Jonathan Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanFlores444/SeriedeLeibniz/issues"
+  },
+  "homepage": "https://github.com/JonathanFlores444/SeriedeLeibniz#readme"
+}
