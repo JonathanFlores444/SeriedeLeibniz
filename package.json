@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JonathanFlores444/SeriedeLeibniz/issues"
   },
-  "homepage": "https://github.com/JonathanFlores444/SeriedeLeibniz#readme"
+  "homepage": "https://github.com/JonathanFlores444/SeriedeLeibniz#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
